@@ -16,7 +16,7 @@ def count_word_lengths(input_string):
 # Input the number of test cases
 T = int(input())
 
-# Process each test case
+
 for _ in range(T):
     input_string = input()
     count_word_lengths(input_string)
