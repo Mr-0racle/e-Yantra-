@@ -5,7 +5,7 @@ def perform_operations(N, initial_inventory, M, operations):
     # Initialize a variable to keep track of the total quantity
     total_quantity = sum(inventory.values())
 
-    # Process each operation
+ 
     result = []
 
     for operation in operations:
